@@ -28,6 +28,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make GraphQL schema and Sequelize fields works together — Don’t Repeat Yourself (DRY)](https://medium.com/@leonyapkl/how-to-make-graphql-schema-and-sequelize-fields-works-together-dont-repeat-yourself-dry-18fbfc5b5aac?source=rss-bfdbddfe081a------2)
+- [How to run GraphQL API server with PostgreSQL under 30 minutes](https://medium.com/@leonyapkl/how-to-run-graphql-api-server-with-postgresql-under-30-minutes-1732304cb825?source=rss-bfdbddfe081a------2)
+- [Minifying JS in Windows easily with Ajaxmin BATCH script](https://medium.com/@leonyapkl/minifying-js-in-windows-easily-with-ajaxmin-batch-script-d75467d1e50f?source=rss-bfdbddfe081a------2)
+- [Frustration accessing company public data no more!](https://medium.com/@leonyapkl/frustration-accessing-company-public-data-no-more-99ac493039a3?source=rss-bfdbddfe081a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@leonyapkl/)
