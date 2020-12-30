@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on BotPress related modules.
 - 🌱 I’m currently learning anything I found interesting.
-- 👯 I’m looking to collaborate on ML/RL related project.
-- 🤔 I’m looking for help with AI related topic.
-- ⚡ Fun fact: I love to take mother nature photograph.
+- 👯 I’m looking to collaborate on ML/RL related projects.
+- 🤔 I’m looking for help with AI related topics.
+- ⚡ Fun fact: I love to take photographs.
 
 ### Connect with me:
 
