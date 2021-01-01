@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Buy a RTX 3000 Graphics Card as a Software Engineer](https://medium.com/@leonyapkl/how-to-buy-a-rtx-3000-graphics-card-as-a-software-engineer-d7ebca7301fd?source=rss-bfdbddfe081a------2)
 - [How to make GraphQL schema and Sequelize fields works together — Don’t Repeat Yourself (DRY)](https://medium.com/@leonyapkl/how-to-make-graphql-schema-and-sequelize-fields-works-together-dont-repeat-yourself-dry-18fbfc5b5aac?source=rss-bfdbddfe081a------2)
 - [How to run GraphQL API server with PostgreSQL under 30 minutes](https://medium.com/@leonyapkl/how-to-run-graphql-api-server-with-postgresql-under-30-minutes-1732304cb825?source=rss-bfdbddfe081a------2)
 - [Minifying JS in Windows easily with Ajaxmin BATCH script](https://medium.com/@leonyapkl/minifying-js-in-windows-easily-with-ajaxmin-batch-script-d75467d1e50f?source=rss-bfdbddfe081a------2)
