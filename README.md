@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Leon
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leonyapkl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkai101&screen_name=kai101)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leonyapkl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkai101&screen_name=leonyapkl)
 
 ## I'm a Husband, Developer, and PC Enthusiast!
 
