@@ -4,8 +4,8 @@
 
 ## I'm a Husband, Developer, and PC Enthusiast!
 
-- 🔭 I’m currently working on BotPress related modules.
-- 🌱 I’m currently learning anything I found interesting.
+- 🔭 I’m currently working on Planet9 related modules.
+- 🌱 I’m currently learning NextJS ISR problems.
 - 👯 I’m looking to collaborate on ML/RL related projects.
 - 🤔 I’m looking for help with AI related topics.
 - ⚡ Fun fact: I love to take photographs.
